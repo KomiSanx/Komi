@@ -1,3 +1,5 @@
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Cover_Komi.png">
+
 <h3 align="center">
     ─「 Komi Shouko 」─
 </h3>
@@ -18,6 +20,8 @@ Character Name
 <summary><h3>Appearance</h3></summary>
 
 > Shouko is described by her admirers as a girl with glossy dark purple/black hair that flows to her lower back, a slender body, and an incredibly beautiful face. She is usually seen wearing her school uniform.
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi_Appearance.png">
 
 </details>
 <details>
