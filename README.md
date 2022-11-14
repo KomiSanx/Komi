@@ -77,4 +77,4 @@ Character Name
 </details>
 <div align="center">
 
-**Inspired** [**@ikx7a**](https://github.com/ikx7a)
+**ɪɴsᴘɪʀᴇᴅ** [**sʜɪᴋɪᴍᴏʀɪ sᴀɴ**](https://github.com/ikx7a/Shikimori-San)
