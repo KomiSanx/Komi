@@ -46,8 +46,14 @@ Character Name
 <details>
 <summary><h3>Gallery</h3></summary>
 
-<img src="https://komisan.fandom.com/wiki/Komi_Shouko/Gallery?file=Komi-sa.jpg">
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi1.jpg">
 
-<img src="https://komisan.fandom.com/wiki/Komi_Shouko/Gallery?file=KomiSan_Bug_Face.PNG">
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi2.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi3.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi4.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi5.jpg">
 
 </details>
