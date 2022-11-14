@@ -73,3 +73,8 @@ Character Name
 <img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi_san..._by_takitaaaa.jpg">
 
 <img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Within_Reason_by_Bohumbo.jpg">
+
+</details>
+<div align="center">
+
+**Inspired** [**@ikx7a**](https://github.com/ikx7a)
