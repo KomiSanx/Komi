@@ -57,3 +57,19 @@ Character Name
 <img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi5.jpg">
 
 </details>
+<details>
+<summary><h3>Fan Art</h3></summary>
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/80s_Style_Komi_by_Blue_the_Bone.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/First_Kiss_-1_by_Harrybatman.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi-san_and_Strawberry_shortcake..._by_rinsachii.png">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi_%26_Tadano_with_drip_by_BoHumbo.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi_and_Tadano_cooking_together_by_bapbapboopboop.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi_san..._by_takitaaaa.jpg">
+
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Within_Reason_by_Bohumbo.jpg">
