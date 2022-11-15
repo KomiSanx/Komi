@@ -1,4 +1,4 @@
-<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Cover_Komi.png">
+<img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Komi_Cover.jpg">
 
 <h3 align="center">
     ─「 Komi Shouko 」─
