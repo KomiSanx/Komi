@@ -79,6 +79,11 @@ Character Name
 <img src="https://github.com/KomiSanx/Komi/blob/main/Resources/Within_Reason_by_Bohumbo.jpg">
 
 </details>
+<details>
+<summary><h3>Komi AMV</h3></summary>
+
+https://user-images.githubusercontent.com/118183533/202777739-2d403280-50de-4205-beb3-2aa60e6cff27.mp4
+
 <div align="center">
 
 **ɪɴsᴘɪʀᴇᴅ** [**sʜɪᴋɪᴍᴏʀɪ sᴀɴ**](https://github.com/ikx7a/Shikimori-San)
