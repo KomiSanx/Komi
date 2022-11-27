@@ -84,6 +84,7 @@ Character Name
 
 https://user-images.githubusercontent.com/118183533/202777739-2d403280-50de-4205-beb3-2aa60e6cff27.mp4
 
+</details>
 <div align="center">
 
 **ɪɴsᴘɪʀᴇᴅ** [**sʜɪᴋɪᴍᴏʀɪ sᴀɴ**](https://github.com/ikx7a/Shikimori-San)
